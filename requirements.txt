@@ -1,4 +1,4 @@
-pandas==
-scipy==
-streamlit==
-numpy==
+pandas
+scipy
+streamlit
+numpy
